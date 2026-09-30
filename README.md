@@ -49,7 +49,7 @@ antrl4CS/
 
 ## Credits
 
-Originally built as a team project at INTEC by:
+Built as a team project at INTEC (Nov 2025 – Jan 2026) by:
 
 - Diego Abreu ([@diegoabreug](https://github.com/diegoabreug))
 - Sebastián Tavares ([@SebastianTavares](https://github.com/SebastianTavares))
