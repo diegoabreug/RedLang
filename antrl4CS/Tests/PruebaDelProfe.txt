@@ -1,0 +1,12 @@
+﻿use Math;
+
+object Program {
+    entry func Main():i {
+        declare x:i = 5;
+        declare y:f = x + 2.5;
+
+        set x = x + 1;
+
+        gives x;
+    }
+}
